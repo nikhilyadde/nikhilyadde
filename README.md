@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 
-**I'm Nikhil..** 
-<!--
-Here are some ideas to get you started:
+**I'm Nikhil..** Student at,💻 Government College of Engineering,Karad Pursuing B-Tech (It).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
+- 💻 I’m currently exploring **Full stack development.**
+
+- 👯 I’m looking to collaborate with other content creators.
+
+- 💬 Ask me about anything. I am happy to help.
+
+- 📫 How to reach me: yaddenikhil@gmail.com
+
+- ⚡ Fun fact: I love to travel & explore new things..
+
+
